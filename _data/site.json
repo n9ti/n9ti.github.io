@@ -21,5 +21,12 @@
   "theme": {
     "name": "default",
     "options": {}
+  },
+  "nav": {
+    "style": "hamburger",
+    "links": []
+  },
+  "home": {
+    "layout": "grid"
   }
 }

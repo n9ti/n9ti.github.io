@@ -1,0 +1,35 @@
+{
+  "slug": "new-album-1776965208660",
+  "title": "Album 2",
+  "description": null,
+  "date": "2026-04",
+  "coverPhoto": "L1014412.jpg",
+  "order": 1,
+  "tags": [],
+  "photos": [
+    {
+      "filename": "L1014412.jpg",
+      "altText": null,
+      "caption": null,
+      "width": 1365,
+      "height": 2048,
+      "order": 0,
+      "url": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/new-album-1776965208660-L1014412.jpg",
+      "localPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album-1776965208660/L1014412.jpg",
+      "thumbLocalPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album-1776965208660/thumb-L1014412.jpg",
+      "thumbUrl": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/thumb-new-album-1776965208660-L1014412.jpg"
+    },
+    {
+      "filename": "L1014380.jpg",
+      "altText": null,
+      "caption": null,
+      "width": 2048,
+      "height": 1365,
+      "order": 1,
+      "url": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/new-album-1776965208660-L1014380.jpg",
+      "localPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album-1776965208660/L1014380.jpg",
+      "thumbLocalPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album-1776965208660/thumb-L1014380.jpg",
+      "thumbUrl": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/thumb-new-album-1776965208660-L1014380.jpg"
+    }
+  ]
+}
