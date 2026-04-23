@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title></title>
+  <meta name="description" content=""/>
+  
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="site-nav__inner">
+    <a href="/" class="site-nav__logo">Nati Namvong</a>
+    <ul class="site-nav__links">
+      <li><a href="/">Work</a></li>
+      <li><a href="/about">About</a></li>
+      
+    </ul>
+  </div>
+</nav>
+
+<main class="page">
+  <div class="home-hero">
+    <a href="/albums/new-album">
+      <img src="https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776931338999/new-album-F0A83610-71B3-4450-9458-8A44E74F9DAE_4_5005_c.jpg" alt="Wow"/>
+    </a>
+  </div>
+  <div class="home-meta">
+    <a href="/albums/new-album" class="home-meta__title">Wow</a>
+    <span class="home-meta__date">April 2026</span>
+  </div>
+  
+  <div class="photo-grid">
+    
+    <a href="/albums/new-album">
+      <img src="https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776931338999/thumb-new-album-FA808A1E-3BB6-4A22-9206-B99F074EDEDB_4_5005_c.jpg" alt=""/>
+    </a>
+    
+  </div>
+</main>
+
+<footer class="site-footer">
+  © Nati Namvong
+  
+</footer>
+
+<script>
+  // Lazy-load images below the fold.
+  if ('IntersectionObserver' in window) {
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) { e.target.src = e.target.dataset.src || e.target.src; io.unobserve(e.target); } });
+    }, { rootMargin: '200px' });
+    document.querySelectorAll('img[loading="lazy"]').forEach(img => io.observe(img));
+  }
+</script>
+</body>
+</html>

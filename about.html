@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>About — Nati Namvong</title>
+  
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="site-nav__inner">
+    <a href="/" class="site-nav__logo">Nati Namvong</a>
+    <ul class="site-nav__links">
+      <li><a href="/">Work</a></li>
+      <li><a href="/about">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main class="page">
+  <h1 class="about-name">Nati Namvong</h1>
+  
+</main>
+
+<footer class="site-footer">© Nati Namvong</footer>
+<script>
+  // Lazy-load images below the fold.
+  if ('IntersectionObserver' in window) {
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) { e.target.src = e.target.dataset.src || e.target.src; io.unobserve(e.target); } });
+    }, { rootMargin: '200px' });
+    document.querySelectorAll('img[loading="lazy"]').forEach(img => io.observe(img));
+  }
+</script>
+</body>
+</html>

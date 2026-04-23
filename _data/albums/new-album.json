@@ -1,0 +1,35 @@
+{
+  "slug": "new-album",
+  "title": "Wow",
+  "description": null,
+  "date": "2026-04",
+  "coverPhoto": "F0A83610-71B3-4450-9458-8A44E74F9DAE_4_5005_c.jpg",
+  "order": 0,
+  "tags": [],
+  "photos": [
+    {
+      "filename": "F0A83610-71B3-4450-9458-8A44E74F9DAE_4_5005_c.jpg",
+      "altText": null,
+      "caption": null,
+      "width": 360,
+      "height": 480,
+      "order": 0,
+      "url": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776931338999/new-album-F0A83610-71B3-4450-9458-8A44E74F9DAE_4_5005_c.jpg",
+      "localPath": "/Users/natinamvong/Library/Application Support/exhbt/portfolio/photos/new-album/F0A83610-71B3-4450-9458-8A44E74F9DAE_4_5005_c.jpg",
+      "thumbLocalPath": "/Users/natinamvong/Library/Application Support/exhbt/portfolio/photos/new-album/thumb-F0A83610-71B3-4450-9458-8A44E74F9DAE_4_5005_c.jpg",
+      "thumbUrl": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776931338999/thumb-new-album-F0A83610-71B3-4450-9458-8A44E74F9DAE_4_5005_c.jpg"
+    },
+    {
+      "filename": "FA808A1E-3BB6-4A22-9206-B99F074EDEDB_4_5005_c.jpg",
+      "altText": null,
+      "caption": null,
+      "width": 360,
+      "height": 542,
+      "order": 1,
+      "url": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776931338999/new-album-FA808A1E-3BB6-4A22-9206-B99F074EDEDB_4_5005_c.jpg",
+      "localPath": "/Users/natinamvong/Library/Application Support/exhbt/portfolio/photos/new-album/FA808A1E-3BB6-4A22-9206-B99F074EDEDB_4_5005_c.jpg",
+      "thumbLocalPath": "/Users/natinamvong/Library/Application Support/exhbt/portfolio/photos/new-album/thumb-FA808A1E-3BB6-4A22-9206-B99F074EDEDB_4_5005_c.jpg",
+      "thumbUrl": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776931338999/thumb-new-album-FA808A1E-3BB6-4A22-9206-B99F074EDEDB_4_5005_c.jpg"
+    }
+  ]
+}
