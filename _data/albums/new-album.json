@@ -1,9 +1,9 @@
 {
   "slug": "new-album",
-  "title": "Album 1",
-  "description": "xxx",
+  "title": "HY Bird",
+  "description": "The Bird",
   "date": "2026-04",
-  "coverPhoto": "L1014440.jpg",
+  "coverPhoto": "L1014423.jpg",
   "order": 0,
   "tags": [],
   "photos": [
@@ -20,28 +20,28 @@
       "thumbUrl": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/thumb-new-album-L1014440.jpg"
     },
     {
-      "filename": "L1014452.jpg",
-      "altText": null,
-      "caption": null,
-      "width": 2048,
-      "height": 1365,
-      "order": 1,
-      "url": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/new-album-L1014452.jpg",
-      "localPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album/L1014452.jpg",
-      "thumbLocalPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album/thumb-L1014452.jpg",
-      "thumbUrl": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/thumb-new-album-L1014452.jpg"
-    },
-    {
       "filename": "L1014423.jpg",
       "altText": null,
       "caption": null,
       "width": 2048,
       "height": 1365,
-      "order": 2,
+      "order": 1,
       "url": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/new-album-L1014423.jpg",
       "localPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album/L1014423.jpg",
       "thumbLocalPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album/thumb-L1014423.jpg",
       "thumbUrl": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/thumb-new-album-L1014423.jpg"
+    },
+    {
+      "filename": "L1014452.jpg",
+      "altText": null,
+      "caption": null,
+      "width": 2048,
+      "height": 1365,
+      "order": 2,
+      "url": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/new-album-L1014452.jpg",
+      "localPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album/L1014452.jpg",
+      "thumbLocalPath": "/Users/n9ti/Library/Application Support/exh1b1t/portfolio/photos/new-album/thumb-L1014452.jpg",
+      "thumbUrl": "https://github.com/n9ti/n9ti.github.io/releases/download/photos-1776971636183/thumb-new-album-L1014452.jpg"
     }
   ]
 }

@@ -4,14 +4,14 @@
   "lang": "en",
   "owner": {
     "name": "Nati Namvong",
-    "bio": "",
+    "bio": "Photographer base in Bangkok Thailand",
     "avatar": null,
     "login": "n9ti"
   },
   "social": {
     "instagram": null,
     "facebook": null,
-    "email": null
+    "email": "nati.namvong@googlemail.com"
   },
   "seo": {
     "googleAnalyticsId": null,
@@ -27,6 +27,19 @@
     "links": []
   },
   "home": {
-    "layout": "grid"
+    "layout": "list",
+    "headline": "Home",
+    "subhead": "Bangkok",
+    "intro": "Intro"
+  },
+  "about": {
+    "exhibitions": [
+      {
+        "title": "BSPF - Finalists",
+        "venue": "Brussels",
+        "year": "2024"
+      }
+    ],
+    "portrait": "/Users/n9ti/Library/Mobile Documents/com~apple~CloudDocs/Photography/LrC Export/L1014452.jpg"
   }
 }
