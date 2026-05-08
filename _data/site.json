@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "XXXX",
   "description": "",
   "lang": "en",
   "owner": {
@@ -19,7 +19,7 @@
   },
   "customDomain": null,
   "theme": {
-    "name": "default",
+    "name": "film",
     "options": {}
   },
   "nav": {
@@ -27,7 +27,7 @@
     "links": []
   },
   "home": {
-    "layout": "list",
+    "layout": "grid",
     "headline": "Home",
     "subhead": "Bangkok",
     "intro": "Intro"
