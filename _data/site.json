@@ -1,17 +1,17 @@
 {
-  "title": "XXXX",
+  "title": "",
   "description": "",
   "lang": "en",
   "owner": {
     "name": "Nati Namvong",
-    "bio": "Photographer base in Bangkok Thailand",
+    "bio": "",
     "avatar": null,
     "login": "n9ti"
   },
   "social": {
     "instagram": null,
     "facebook": null,
-    "email": "nati.namvong@googlemail.com"
+    "email": null
   },
   "seo": {
     "googleAnalyticsId": null,
@@ -22,24 +22,21 @@
     "name": "film",
     "options": {}
   },
-  "nav": {
-    "style": "hamburger",
-    "links": []
-  },
   "home": {
-    "layout": "grid",
-    "headline": "Home",
-    "subhead": "Bangkok",
-    "intro": "Intro"
+    "layout": "list",
+    "headline": "",
+    "subhead": "",
+    "intro": ""
   },
   "about": {
-    "exhibitions": [
-      {
-        "title": "BSPF - Finalists",
-        "venue": "Brussels",
-        "year": "2024"
-      }
-    ],
-    "portrait": "https://github.com/n9ti/n9ti.github.io/releases/download/portrait-1777017733283/portrait-091eeb81b1fa.jpg"
+    "portrait": null,
+    "exhibitions": []
+  },
+  "nav": {
+    "style": "sidebar",
+    "homeVisible": true,
+    "aboutVisible": true,
+    "hiddenAlbums": [],
+    "links": []
   }
 }
